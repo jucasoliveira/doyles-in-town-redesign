@@ -29,6 +29,20 @@ The Pub has [Facebook](https://www.facebook.com/pages/Doyles/152540298090405) an
 Fresh is a full stack modern web framework for JavaScript and TypeScript developers, designed to make it trivial to create high-quality, performant, and personalized web applications. You can use it to create your home page, a blog, a large web application like GitHub or Twitter, or anything else you can think of.
 
 
+# fresh project
+
+### Usage
+
+Start the project:
+
+```
+deno task start
+```
+
+This will watch the project directory and restart as necessary.
+
+
+
 ## Back-end
 
 
